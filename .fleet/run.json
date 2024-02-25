@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Run website",
+            "type": "command",
+            "program": "$PROJECT_DIR$/.fleet/run.sh",
+        }
+        
+    ]
+}

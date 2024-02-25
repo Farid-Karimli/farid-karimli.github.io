@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Run my script",
+            "type": "command",
+            "program": "bundle exec jekyll serve",
+        }
+        
+    ]
+}

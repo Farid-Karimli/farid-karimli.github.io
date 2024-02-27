@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://farid-karimli.github.io/mywebsite2//sitemap.xml
+Sitemap: https://farid-karimli.github.io//sitemap.xml

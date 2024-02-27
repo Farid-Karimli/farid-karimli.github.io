@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Publications and pre-prints
+permalink: /research/
+title: research
+description: Research work
 nav: true
 nav_order: 2
 ---

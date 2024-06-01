@@ -1,35 +1,20 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: AI Tutor
+description: LLM-based educational chatbot for course help.
+img: assets/img/terrier.png
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The AI Course Tutor is an LLM-based assistant designed to provide 24/7 support to students by answering common questions and offering guidance. Its primary use is to supplement instructor and teaching assistant advisement, making help readily available even outside of regular office hours. The AI Tutor benefits students by offering instant assistance, thereby enhancing their learning experience and allowing them to resolve queries quickly. Its potential lies in reducing the workload on human instructors and TAs, providing consistent support, and improving student engagement and performance through personalized, immediate feedback.This effort is part of a suite of AI-powered assistants for various academic applications.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The tutor will be piloted in the DS701 class to gather feedback and improve performance. A very early version is available on a <a href="https://huggingface.co/spaces/dl4ds/dl4ds_tutor">HuggingFace space</a>.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

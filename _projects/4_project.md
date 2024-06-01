@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: AirMouse
+description: Control your mouse pointer with your hands
+img: assets/img/airmouse.webp
 importance: 3
 category: fun
 ---

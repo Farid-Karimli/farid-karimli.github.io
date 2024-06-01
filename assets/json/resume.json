@@ -17,6 +17,14 @@
   },
   "work": [
     {
+      "name": "AI Lab @ BU CDS",
+      "position": "ML Researcher",
+      "startDate": "2024-05-16",
+      "endDate": "now",
+      "summary": "Working on a multi-modal foundation model for analyzing millions of Herbaria samples and educational AI tutors. ",
+      "highlights": ["Language Models", "Computer Vision", "AI Agents"]
+    },
+    {
       "name": "Image and Video Computing Group @ BU CS",
       "position": "MS Researcher",
       "url": "https://www.bu.edu/cs/ivc/",
@@ -54,7 +62,7 @@
       "studyType": "MS",
       "startDate": "2023",
       "endDate": "2024",
-      "courses": ["Deep Learning", "AI Ethics", "Time Series", "Computational Statistics"]
+      "courses": ["Deep Learning", "Computational Statistics", "AI Ethics", "Time Series"]
     },
     {
       "institution": "Boston University",
@@ -72,41 +80,29 @@
       "publisher": "Farid Karimli, Hao Yu, Manny Akosah, and Margrit Betke, Wenxin Feng",
       "releaseDate": "preprint",
       "url": "",
-      "summary": "We  propose a complete AI-based redevelopment of the CameraMouse interface that includes automated facial feature detection and new ways to map facial feature positions to mouse coordinates and facial feature movements to mouse clicks. In addition to the traditional dwell-time mechanism, users can select items on the screen by opening their mouth or raising their eye brows. "
-    },
-    {
-      "name": "MathLLM: Fine-tuning LLMs to solve Math Ph.D. problems",
-      "publisher": "Ben Badnani, Xinyu Zhang, Farid Karimli",
-      "releaseDate": "preprint",
-      "summary": "Fine-tuning gpt3.5 to act as a context helper (Lemma Finder) for gpt4 to solve Harvard Math Ph.D. qualifying exams."
+      "summary": "We propose a complete AI-based redevelopment of the CameraMouse interface that includes automated facial feature detection and new ways to map facial feature positions to mouse coordinates and facial feature movements to mouse clicks. In addition to the traditional dwell-time mechanism, users can select items on the screen by opening their mouth or raising their eye brows."
     }
   ],
   "skills": [
     {
       "name": "Python",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Data Frameworks",
-        "Tensorflow",
-        "GUIs",
-        "Django"
-      ]
-    },
-    {
-      "name": "SQL",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MySQL",
-        "Cloud SQL"
-      ]
+      "keywords": ["Data Frameworks", "PyTorch", "GUIs", "Django"]
     },
     {
       "name": "Javascript/Typescript",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Node",
-        "Express"
-      ]
+      "keywords": ["React", "NodeJS", "Express"]
+    },
+    {
+      "name": "Java",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Spring Boot"]
+    },
+    {
+      "name": "SQL",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["MySQL", "Cloud SQL"]
     }
   ],
   "languages": [
@@ -135,43 +131,40 @@
     {
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computer Vision",
-        "Neural Network Fundamentals",
-        "Generative AI"
-      ]
+      "keywords": ["Computer Vision", "Language Models", "AI Agents"]
     },
     {
       "name": "Data Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Data Visualization",
-        "Quantitative Analysis"
-      ]
+      "keywords": ["Data Visualization", "Quantitative Analysis"]
     },
     {
-      "name": "Software",
+      "name": "Software Development",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Desktop Applications",
-        "Web Applications"
-      ]
+      "keywords": ["Full Stack Development", "Web Applications", "Databases"]
     }
-
   ],
   "projects": [
     {
-      "name": "VitHandPose",
-      "summary": "Appropritating the SOTA body pose estimation model VitPose for hand poses and applying it to a concrete use case. ",
-      "highlights": ["Vision Transformers", "Hand Pose Estimation"],
+      "name": "AirMouse",
+      "summary": "Control your mouse by finger pointing and hand gestures.",
+      "highlights": ["Computer Vision", "Desktop Software", "Open Source"],
+      "startDate": "2024-05-01",
+      "endDate": "now",
+      "url": "https://github.com/Farid-Karimli/AirMouse"
+    },
+    {
+      "name": "VideoASL",
+      "summary": "Using masked autoencoders and space-time attention to classify extended American Sign Language in video.",
+      "highlights": ["Video classification", "Space-time Attention"],
       "startDate": "2024-02-16",
       "endDate": "now"
     },
     {
       "name": "FGK.ai",
-      "summary": "Chatbot that mimics my style of texting and writing. Built using Chainlit, LangChain and OpenAI.",
-      "highlights": ["Vision Transformers", "Hand Pose Estimation"],
-      "startDate": "2024-01-01",
+      "summary": "Attemping to build a chatbot that mimics my style of texting and writing. Building using Chainlit, LangChain and OpenAI.",
+      "highlights": ["AI Agent", "AI Assistant"],
+      "startDate": "2024-02-01",
       "endDate": "now"
     }
   ]

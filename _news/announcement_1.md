@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Master's in Data Science at Boston University. 
+Started my Master's in Data Science at Boston University.

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Farid Karimli",
-    "label": "MS Researcher",
+    "label": "ML Researcher",
     "image": "",
     "email": "faridkar@bu.edu",
     "phone": "8572347396",
@@ -17,11 +17,11 @@
   },
   "work": [
     {
-      "name": "AI Lab @ BU CDS",
+      "name": "Gardos Lab @ BU CDS",
       "position": "ML Researcher",
       "startDate": "2024-05-16",
       "endDate": "now",
-      "summary": "Working on a multi-modal foundation model for analyzing millions of Herbaria samples and educational AI tutors. ",
+      "summary": "Working on a multi-modal foundation model for analyzing millions of Herbaria samples and educational AI tutors. Advised by Dr. Thomas Gardos.",
       "highlights": ["Language Models", "Computer Vision", "AI Agents"]
     },
     {
@@ -30,7 +30,7 @@
       "url": "https://www.bu.edu/cs/ivc/",
       "startDate": "2023-06-01",
       "endDate": "now",
-      "summary": "I work on video-based human-computer interfaces and assistive technology. I lead the redesign of CameraMouse, a desktop application that enables people with severe motor impairments to use a computer with their head movement. I work on advanced face-tracking and gesture recognition capabilities to improve user interaction, developed a testing GUI for analyzing mouse movement efficiency, and created the testing routine that included both target selection and typical daily tasks. ",
+      "summary": "I work on video-based human-computer interfaces and assistive technology. I lead the redesign of CameraMouse, a desktop application that enables people with severe motor impairments to use a computer with their head movement. I work on advanced face-tracking and gesture recognition capabilities to improve user interaction, developed a testing GUI for analyzing mouse movement efficiency, and created the testing routine that included both target selection and typical daily tasks. Advised by Dr. Margrit Betke.",
       "highlights": ["Human-computer interaction", "Facial recognition", "Assistive technology"]
     },
     {

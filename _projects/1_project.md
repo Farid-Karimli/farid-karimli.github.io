@@ -12,5 +12,11 @@ We developed CameraMouseAI, a system that enables real-time facial feature detec
 
 ### Images
 
-![CameraMouseAI Image 1](assets/img/cameramouse/CM 1.png)
-![CameraMouseAI Image 2](assets/img/cameramouse/CM 2.png)
+<div class="row">
+     <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cameramouse/CM 1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+     </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cameramouse/CM 2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

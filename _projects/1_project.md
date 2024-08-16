@@ -1,30 +1,16 @@
 ---
 layout: page
-title: Herbaria LMM
-description: Large-scale, multi-modal foundation model to analyze millions of Herbaria samples
-img: /assets/img/herbaria.jpg
+title: CameraMouse
+description: A Head-Based Mouse-Control System for People with Severe Motor Disabilities
 importance: 1
+img: assets/img/cameramouse/CM 1.png
 category: work
-related_publications: false
+giscus_comments: false
 ---
 
-This project aims to revolutionize the field of botany and biodiversity studies by developing a large-scale, multi-modal foundation model, to identify and analyze millions of Herbaria samples.
+We developed CameraMouseAI, a system that enables real-time facial feature detection for mouse control. Users can perform mouse commands, such as clicks, by raising their eyebrows or opening their mouth, in addition to traditional dwell-time selection. The open-source platform allows for easy updates and extensions with new computer vision and machine learning models. In tests, both users with and without motor impairments successfully used CameraMouseAI for tasks like target selection and web browsing.
 
-Right now, the research process on preserved plant samples is highly manual. It is also very prone to mistakes, as there is much suspicion of misnaming of samples.
+### Images
 
-The objective of our work is to enhance botanists' ability to investigate and draw insights with said samples. This is important since Herbaria samples are often the basis of the knowledge about climate change, evolution and biological lifecycles. Therefore, our work holds immense potential for transformative impact. By providing a deeper understanding of plant species and their ecosystems, we can better strategize on preserving biodiversity and even discover new species.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/herb1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/herb2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/herb3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Examples of preserved herbaria samples from Harvard University.
-</div>
+![CameraMouseAI Image 1](assets/img/cameramouse/CM 1.png)
+![CameraMouseAI Image 2](assets/img/cameramouse/CM 2.png)

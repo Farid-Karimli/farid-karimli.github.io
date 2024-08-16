@@ -16,8 +16,6 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<u>Accurate as of May 2024</u>
-
 I'm a Data Science MS student at Boston University. I got my undergraduate degree in Computer Science there too. My background is in data science, machine learning and software development.
 
 In many ways, my work has been human-centered. I have led and worked on projects that span many domains: healthcare, public policy, linguistics and more. These involved working on facial tracking and gesture recognition in assistive software, investigating health and police data, and more.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Herbaria LMM
-description: Large-scale, multi-modal foundation model to analyze millions of Herbaria samples
+description: Towards a foundational model for large-scale Herbarium specimen recognition.
 img: /assets/img/herbaria.jpg
 importance: 3
 category: work

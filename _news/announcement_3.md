@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our CameraMouseAI demo paper got accepted at ASSETS 24'! 
+Our [CameraMouseAI paper](https://dl.acm.org/doi/10.1145/3663548.3688499) got accepted at ASSETS 24'!

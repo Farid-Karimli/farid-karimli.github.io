@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CameraMouse
+title: CameraMouse & KeyGlide
 description: A Head-Based Mouse-Control System for People with Severe Motor Disabilities
 importance: 1
 img: assets/img/cameramouse/CM 1.png

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSDS at Boston University. Brookline, MA. <a href="mailto:faridkar@bu.edu">faridkar@bu.edu</a>.
+subtitle: AI + HCI. Boston, MA. <a href="mailto:faridkar@bu.edu">faridkar@bu.edu</a>.
 
 profile:
   align: right
@@ -16,8 +16,16 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Data Science MS student at Boston University. I got my undergraduate degree in Computer Science there too. My background is in data science, machine learning and software development.
+Hi, I'm Farid Karimli, a researcher and developer with a passion for the intersection of AI and Human-Computer Interaction (HCI).
+My work focuses on designing intelligent systems that enhance accessibility, productivity, and personal workflows.
+With a Data Science M.S. from and a B.A. in Computer Science from Boston University, I bring a strong foundation in ML
+research and practical software development.
 
-I have led and worked on projects that span many domains: healthcare, public policy, linguistics and more. These involved working on facial tracking and gesture recognition in assistive software, investigating health and police data, and more.
+I've worked on projects like CameraMouseAI, that allows people with motor impairments to control their mouse pointer
+using head movements, and KeyGlide, a keyboard controlled entirely through motion. I've also been developing AI systems
+for specialized areas, like recognizing herbarium specimens, and exploring how AI can support education through
+personalized tutors. I am involved in developing Edubotics.ai, a platform for creating AI tutors that adapt to different
+course content, aiming to improve student engagement and personalized learning.
 
-Currently, my interests are in computer vision, human-computer interaction, and applied AI. My goal is to use deep learning methods to enhance how we learn and interact with our devices and data. I am part of the Image and Video Research Group, working on video-based human-computer interfaces and assistive technology. Also, I recently joined Prof. Thomas Gardos's AI lab, working on a multi-modal foundation model for analyzing millions of Herbaria samples and educational AI tutors.
+Outside of work, I like to cook, play video games, watch sports (basketball, football and soccer), and think
+about new ideas for projects that can make a difference.

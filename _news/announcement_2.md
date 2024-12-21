@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Gardos Lab
+Joined the Gardos Lab at Boston University, working on large-scale herbarium classification and academic AI assistants.

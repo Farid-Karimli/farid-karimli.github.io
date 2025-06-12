@@ -16,7 +16,7 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Farid Karimli, a researcher and developer with a passion for the intersection of AI and Human-Computer Interaction (HCI).
+I'm Farid Karimli, a researcher and developer with a passion for the intersection of AI and Human-Computer Interaction (HCI).
 My work focuses on designing intelligent systems that enhance accessibility, productivity, and personal workflows.
 With a Data Science M.S. from and a B.A. in Computer Science from Boston University, I bring a strong foundation in ML
 research and practical software development.

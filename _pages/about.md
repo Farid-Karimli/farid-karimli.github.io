@@ -16,16 +16,8 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Farid Karimli, a researcher and developer with a passion for the intersection of AI and Human-Computer Interaction (HCI).
-My work focuses on designing intelligent systems that enhance accessibility, productivity, and personal workflows.
-With a Data Science M.S. from and a B.A. in Computer Science from Boston University, I bring a strong foundation in ML
-research and practical software development.
+I’m Farid Karimli, a PhD student in Data Science at Boston University. My research focuses on the intersection of Artificial Intelligence and Human-Computer Interaction (HCI), where I design systems that make technology more accessible, productive, and adaptive to human needs.
 
-I've worked on projects like CameraMouseAI, that allows people with motor impairments to control their mouse pointer
-using head movements, and KeyGlide, a keyboard controlled entirely through motion. I've also been developing AI systems
-for specialized areas, like recognizing herbarium specimens, and exploring how AI can support education through
-personalized tutors. I am involved in developing Edubotics.ai, a platform for creating AI tutors that adapt to different
-course content, aiming to improve student engagement and personalized learning.
+Right now I'm working on grounded diffusion models and computer vision, large-scale herbarium specimen classification, and the development of educational AI tutors. I’ve also built accessibility tools such as CameraMouse (AI-based mouse control via head movements) and KeyGlide (a movement-based text-entry system), along with applied AI agents for workplace productivity. Across these projects, my goal has been consistent: to build intelligent systems that meaningfully extend human capability.
 
-Outside of work, I like to cook, play video games, watch sports (basketball, football and soccer), and think
-about new ideas for projects that can make a difference.
+Outside of research, I enjoy cooking, playing video games, and following sports like basketball, football, and soccer. I’m always open to conversations and collaborations at the intersection of AI, HCI, and real-world impact.

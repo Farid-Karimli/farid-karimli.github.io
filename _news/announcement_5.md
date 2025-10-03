@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a Software Engineer for Vincer, MIT-affiliated startup working on an AI platform for occupational health.
+Started as a Software Engineer for Vincer, MIT-affiliated startup working on an AI platform for sales for productivity.

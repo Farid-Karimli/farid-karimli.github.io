@@ -16,8 +16,12 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m Farid Karimli, a PhD student in Data Science at Boston University, where I study the design and implementation of **proactive, multimodal assistants** that transcend individual devices to support humans in situated, daily tasks. My research bridges **low-cost computer vision** and **agentic AI** to build systems that don’t just react to commands, but anticipate user needs through subtle physiological and environmental cues. Currently, I'm also working on large-scale fine-grained visual classification. 
+I’m a first-year PhD student in Data Science in the Faculty of Computing & Data Sciences at Boston University. I study the design of proactive, multimodal assistants that transcend individual devices to support humans in situated, daily tasks. I plan to bridge low-cost computer vision and agentic ML to build systems that don't just react to commands, but anticipate user needs by reasoning over their environment and past interactions. 
 
-Previously, I developed educational AI tutors for ML classes at BU, accessibility tools (CameraMouse and KeyGlide), and built AI agents for workplace productivity in sales. Across all my efforts my goal has been to build intelligent systems that meaningfully extend human capability.
+My work sits at the intersection of AI, HCI, and software — spanning efficient video understanding, benchmarking proactiveness in multimodal models, and the design of new interactive experiences powered by agentic AI. I have a particular interest in quantifying the "intervention window": the moment where AI assistance adds the most value, before the user has to ask.
 
-Outside of research, I enjoy watching and playing sports, video games and cooking. I’m always open to conversations and collaborations at the intersection of AI & HCI, so feel free to reach out! 
+My background is in computer science and data science. Previously, I developed educational AI tutors for ML courses at BU, accessibility tools including CameraMouse and KeyGlide, and AI agents for workplace productivity in sales. I have published in accessibility and HCI, and bring a strong foundation in data processing and full-stack web development.
+
+**Current Work**: I am currently pursuing two parallel threads. The first is a deeper investigation into vision model behavior under extreme label cardinalities in the fine-grained setting — a foundational effort to understand how vision models scale and where they break down. The second is DeepRead, an application to bridge the gap between academic papers and their code implementations, rendering both in a single unified view to make research more navigable for practitioners and researchers alike.
+
+I am always open to conversations and collaborations at the intersection of AI and HCI — feel free to reach out.
